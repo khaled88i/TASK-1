@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vector index (regenerated automatically on sync)
+.index/
+
+# OS
+.DS_Store
+
+# Test artifacts
+.pytest_cache/
+
